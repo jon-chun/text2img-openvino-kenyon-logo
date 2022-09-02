@@ -2,7 +2,7 @@
 
 Recently, a new sports logo was announced for the Kenyon College. The former Kenyon Lords and Ladies have been rebranded as the Kenyon Owls.
 
-![Kenyon Owls](logo_kenyon_owl_medium-425owl_purple-gray_rgb.jpg)
+![Kenyon Owls](logo_kenyon_owl_medium-425owl_purple-gray_rgb.png)
 
 Here are examples of prompts and resulting logos based upon text2img diffusion models on [lexica.art](https://lexica.art/?q=sports+logos).
 
