@@ -10,9 +10,9 @@ This repo contains a few unfiltered examples of new logos based upon variations 
 
 "minimalist logo of a nerdy owl perched on a shield, purple and white colors, sharp, accented, detailed, flat colors, professional, kenyon college"
 
-![First Place](logo8_kenyon_nerdy_owl_3-49.jpg)
+![First Place](logo8_kenyon_nerdy_owl_3-49.png)
 
-![Second Place](logo5_kenyon_nerdy_owl_6-07.jpg)
+![Second Place](logo5_kenyon_nerdy_owl_6-07.png)
 
-![Third Place](logo14_kenyon_nerdy_owl.jpg)
+![Third Place](logo14_kenyon_nerdy_owl.png)
 
