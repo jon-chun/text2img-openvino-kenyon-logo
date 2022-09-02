@@ -1,6 +1,6 @@
 # Exploring Stable diffusion with Intel OpenVINO to mock up new Kenyon Logo ideas
 
-Recently, a new sports logo was announced for the Kenyon College. The former Kenyon Lords and Ladies have been rebranded as the Kenyon Owls.
+Recently, a new sports logo was announced for the Kenyon College. The former Kenyon Lords and Ladies have been rebranded the Kenyon Owls.
 
 ![Kenyon Owls](logo_kenyon_owl_medium-425owl_purple-gray_rgb.png)
 
